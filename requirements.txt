@@ -1,0 +1,16 @@
+# External dependencies
+opencv-python
+numpy
+tqdm
+tensorboard
+protobuf
+absl-py
+mediapipe==0.10.18
+matplotlib
+
+# App dependencies
+streamlit 
+streamlit-webrtc    
+gtts 
+deep-translator 
+opencv-python-headless
