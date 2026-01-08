@@ -13,4 +13,6 @@ streamlit
 streamlit-webrtc    
 gtts 
 deep-translator 
+
 opencv-python-headless
+pytorch
